@@ -1,4 +1,4 @@
-# Ball Simulation with QuadTree and OpenCV
+# Ball Simulation
 
 This project simulates a large number of moving balls within a defined space using a QuadTree for efficient spatial partitioning and collision detection. The visualization is handled using OpenCV.
 
